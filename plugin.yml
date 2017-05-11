@@ -1,0 +1,12 @@
+name: CommandCMD
+author: SamyR0
+main: CommandCMD\Main
+version: 1.0.1
+api: [1.0.0,2.0.0,3.0.0]
+commands:
+  info:
+    description: Informations about plugin
+    default: true
+  donate:
+    description: an command
+    default: true
