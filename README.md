@@ -1,2 +1,2 @@
 # CommandCMD
-An plugin for pocketmine servers!
+A plugin for pocketmine servers!
